@@ -1,0 +1,5 @@
+# To ignore confidential Terraform files
+.terraform/
+.terraform*
+.terraform.tfstate
+.terraform.tfstate*
